@@ -1,0 +1,1 @@
+[{"url":"/2023/03/10/hello-world/","content":"Hexo博客 https://couriourc.github.io/\n\n初始化Hexo\n\nHexo 主题 hexo-theme-keep https://keep-docs.xpoet.cn/\nnpm install hexo-theme-keep\n\nHexo常见指令\n\n\n\n指令\n说明\n\n\n\nhexo clean &amp;&amp; hexo g\n清除本地项目并重新生成 （重新部署时使用）\n\n\nhexo g\n重新生成\n\n\nHexo s\n开启本地预览\n\n\nHexo d\n推送到github\n\n\n\n部署到github\n\n\n\n"}]
